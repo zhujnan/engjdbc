@@ -31,7 +31,7 @@ public class TestUserDaoImpl {
 	}
 	@Test
 	public void update() {
-		Dept dept = new Dept(40,"bbb","nj23");
+		Dept dept = new Dept(30,"sales","Dallas");
 		Assert.assertEquals(true, ud.update(dept));
 	}
 

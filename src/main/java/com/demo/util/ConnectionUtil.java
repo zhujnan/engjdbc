@@ -14,7 +14,6 @@ import java.util.Properties;
  * 			获得连接
  * 			关闭连接
  * @author Administrator
- *
  */
 public class ConnectionUtil {
 		private static String url;
